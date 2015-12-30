@@ -1,0 +1,17 @@
+{
+  "name": "node-git-http-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "access-log": "^0.3.9",
+    "filewalker": "^0.1.2",
+    "git-http": "git+https://github.com/viglucci/node-git-http.git",
+    "path": "^0.12.7"
+  }
+}
