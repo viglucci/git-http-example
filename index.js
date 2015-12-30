@@ -1,5 +1,4 @@
 var http = require('http');
-var spawn = require('child_process').spawn;
 var path = require('path');
 var accesslog = require('access-log');
 var GitHttp = require('git-http');
